@@ -4,14 +4,14 @@ a1 = int(input("Введи число:   "))
 a2 = int(input("Введи число:   "))
 a3 = int(input("Введи число:   "))
 a4 = int(input("Введи число:   "))
-
+a5 = int(input("Введи число:   "))
 count_even = 0 #четные
 count_odd = 0 #нечетные
 
 # % - взятие остатка от деления
 
 if a1 % 2 == 0:
-    count_even += 1
+    count_even += 2
 else:
     count_odd += 1
 

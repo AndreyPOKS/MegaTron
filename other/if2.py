@@ -9,5 +9,5 @@ elif calc == '*':
     print(Mum1 * Mum2)
 elif calc == '/':
     print(Mum1 / Mum2)
-elif calc == '-':
+elif calc == '-':32422
     print(Mum1 - Mum2)
